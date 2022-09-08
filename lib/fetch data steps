@@ -1,0 +1,14 @@
+HOW TO  FETCH DATA FROM API
+---------------------------
+
+STEP 1:
+
+    set dependencys
+    http in pub.yaml file
+
+STEP 2:
+
+    visit website an anylized the api data
+    example: reqres.in
+
+
